@@ -1,3 +1,4 @@
+insert into 
 Date and time
 Category
 Sub category
